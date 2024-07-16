@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m Frontend Developer<br> - 📚 I learn every day<br> - ⚡ In my free time I code websites
+- 🔭 I’m Frontend Developer<br>- 📚 I learn every day<br>- ⚡ In my free time I code websites
 
 
 ## 🌐 Socials:
